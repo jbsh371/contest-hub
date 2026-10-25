@@ -9,3 +9,6 @@ desktop.ini
 
 # Claude Code 로컬 설정
 .claude/settings.local.json
+
+# 개인정보가 있는 원본 화면 캡처 (커밋 금지)
+02_202610_전국민AI활용사례시즌3/02_제출물/captured_images/
